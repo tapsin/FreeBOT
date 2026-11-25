@@ -16,9 +16,9 @@
 
 FreeBOT kurulum paketi büyük boyutlu olduğundan dışarıdan sunulmaktadır:
 
-### 👉 [**FreeBOT-0.78.0-x64.exe indir (≈149 MB)**](https://files.fm/f/hnvydfdftupym7by)
+### 👉 [**FreeBOT-0.78.0-x64.exe indir (≈149 MB)**](https://files.fm/f/7krwjybkwrsjnpep)
 
-İndirme bağlantısı: **https://files.fm/f/hnvydfdftupym7by**
+İndirme bağlantısı: **https://files.fm/f/7krwjybkwrsjnpep**
 
 > 💡 **Sistem gereksinimleri**
 > - Windows 10 / 11 (64-bit)
