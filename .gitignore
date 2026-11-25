@@ -1,0 +1,8 @@
+# Dağıtım dışı hiçbir şey dahil edilmez
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.zip
+dist/
+node_modules/
